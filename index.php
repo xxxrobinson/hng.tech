@@ -32,38 +32,9 @@
     $request = rtrim($request, '/');
   }
 
-<<<<<<< HEAD
-  switch ($request) {
-      case '/' :
-          require __DIR__ . '/views/index.php';
-          break;
-      case '/support' :
-          require __DIR__ . '/views/support.php';
-          break;
-      case '/about' :
-          require __DIR__ . '/views/about.php';
-          break;
-      case '/interns' :
-          require __DIR__ . '/views/interns.php';
-          break;
-      case '/interns/current' :
-          require __DIR__ . '/views/current.php';
-          break;
-      case '/become-intern' :
-          require __DIR__ . '/views/become-intern.php';
-          break;
-     case '/interns/lovisgod' :
-          require __DIR__ . '/views/interns/lovisgod.php';
-          break;    
-      default:
-          require __DIR__ . '/views/404.php';
-          break;
-  }
-=======
   $view = $router->match($request);
   
   require $view;
->>>>>>> master
 ?>
 
 </html>
