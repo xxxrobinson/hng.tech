@@ -117,6 +117,21 @@
      					    <a href="#" class="btn-view">view profile</a>
      				</div>
      			</div>
+           <div class="col-md-3 col-sm-6 col-xs-12">
+           <div class="intern-block border-blue">
+     					<img src="../app/img/lovisgod.jpg" alt="">
+     					  <h6>Ayooluwa Olosunde</h6>
+                 <p>Hi, I am Ayooluwa Olosunde an android developer also into web development. I am good with Java, Java-script, Node-js, html, css</p>
+                 <ul class="list">
+                 <li><a href="https://twitter.com/ayolovisgod" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/lovisgod/" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/lovisgod" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 </ul>
+     					    <a href="ayooluwa.php" class="btn-view">view profile</a>
+     				</div>
+     			</div>
+
+
      		</div>
      	</div>
      </div>
