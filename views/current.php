@@ -127,7 +127,7 @@
                  <li><a href="https://github.com/lovisgod/" target="_blank"<i class="fab fa-github"></i></a></li>
                  <li><a href="https://medium.com/lovisgod" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="ayooluwa.php" class="btn-view">view profile</a>
+     					    <a href="lovisgod" class="btn-view">view profile</a>
      				</div>
      			</div>
 
