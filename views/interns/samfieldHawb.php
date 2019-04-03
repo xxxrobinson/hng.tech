@@ -25,10 +25,10 @@
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
                         <p>My name is Samfield Hawb Bassey from Akwa-Ibom state, Nigeria. I am a student of Univerisity of Uyo, Nigeria. 
-I have a strong passion for Computer Programming and Electronics. I am a full stack web developer and android developer.</p>
+                        I have a strong passion for Computer Programming and Electronics.I build for the web and android devices.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>Web Development | Android Developement</p>
+                        <p>Php | Java | Python</p>
                      </div>
                   </div>
                </div>
