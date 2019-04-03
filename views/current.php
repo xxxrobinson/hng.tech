@@ -119,7 +119,7 @@
      			</div>
            <div class="col-md-3 col-sm-6 col-xs-12">
            <div class="intern-block border-blue">
-     					<img src="../app/img/lovisgod.jpg" alt="">
+     					<img src="https://res.cloudinary.com/psirius-eem/image/upload/v1554307982/ayooluwa2.jpg" class="profile-pic" alt="">
      					  <h6>Ayooluwa Olosunde</h6>
                  <p>Hi, I am Ayooluwa Olosunde an android developer also into web development. I am good with Java, Java-script, Node-js, html, css</p>
                  <ul class="list">

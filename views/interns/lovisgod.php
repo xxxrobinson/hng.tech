@@ -82,7 +82,7 @@
 <div class="wrapper">
     <div class="box-a">
         <div class="profile-div">
-            <img src="https://res.cloudinary.com/psirius-eem/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1523901966/lovisgod.jpg" class="profile-pic">
+            <img src="https://res.cloudinary.com/psirius-eem/image/upload/v1554307982/ayooluwa2.jpg" class="profile-pic">
         </div>
         <ul>
             <li><a href="#home">About</a></li>
