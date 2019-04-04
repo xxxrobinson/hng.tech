@@ -24,7 +24,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p> Just another web developer</p>
+                        <p> Just another web developer.</p>
                         <br />
                         <h6>Skills</h6>
                         <p>JavaScript | Html | Css</p>
