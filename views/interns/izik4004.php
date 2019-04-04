@@ -11,9 +11,9 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/izik4004/image/upload/v1554366461/zzzz.jpg/fav-500.png" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/izik4004/image/upload/v1554366461/zzzz.jpg" alt="Mark Essien">
                         <h6>Isaac John</h6>
-                        <p>Intern</p>
+                        <p>Front-end Engineer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/izik4004" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/izik4004" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
@@ -24,10 +24,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Hi I'm Isaac an intern looking forward to get familiar with web development</p>
+                        <p>I'm Isaac and new to software development, looking forward to learn more</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>Html | Css </p>
+                        <p>Html | PHP | Css</p>
                      </div>
                   </div>
                </div>
