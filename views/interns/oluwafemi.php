@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/sirphemmiey/image/upload/v1554329723/20180525110131_IMG_6495-v2_1_fcvvof.png" alt="Oluwafemi Akinde">
+                        <img src="https://res.cloudinary.com/sirphemmiey/image/upload/c_scale,h_500,w_500/v1554329723/20180525110131_IMG_6495-v2_1_fcvvof.png" alt="Oluwafemi Akinde">
                         <h6>Oluwafemi Akinde</h6>
                         <p>Fullstack Engineer</p>
                         <ul class="list">
