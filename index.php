@@ -25,7 +25,6 @@
       '/interns/current' => 'current.php',
       '/become-intern' => 'become-intern.php',
       '/template' => 'interns/template.php',
-      '/interns/lovisgod' => 'interns/lovisgod.php',
       '/test' => 'interns/test.php'
   ]);
   $request = $_SERVER['REQUEST_URI'];
