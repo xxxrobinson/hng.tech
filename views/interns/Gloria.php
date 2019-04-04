@@ -27,7 +27,7 @@
                         <p>I am a full stack web developer. I work with PHP, JavaScript, ReactJs and collaboration tools like Jira, Slack, Confluence. I have always been involved and enjoy Ajile method of Development. I am glad to be on this Internship with eagerness to learn and work</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP | PHP Phalcon | ReactJs | git(github,bitbucket,gitlab) | Agile Development(Jira, Slack, Confluence) </p>
+                        <p>JavaScript(Reacjs) | PHP( PHP Phalcon)| Agile Development(Jira, Slack, Confluence,git,github) </p>
                      </div>
                   </div>
                </div>
