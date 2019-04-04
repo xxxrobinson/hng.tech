@@ -8,8 +8,8 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/dekillerj/image/upload/v1554308635/IMG_20170413_194324_332.jpg" alt="Mark Essien">
-                        <h6>Mark Essien</h6>
+                        <img src="https://res.cloudinary.com/dekillerj/image/upload/v1554308635/IMG_20170413_194324_332.jpg" alt="Iwaloye Samuel Olawale">
+                        <h6>Iwaloye Samuel Olawale</h6>
                         <p>Front-end Engineer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/Dekiller_j" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
