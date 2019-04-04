@@ -25,7 +25,7 @@
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
                         <p>A budding software developer, 
-                        in love with building things. 
+                        loves learning and building things. 
                         I write JavaScript and nodeJS. 
                         Will be glad to interact with you.</p>
                         <br />
