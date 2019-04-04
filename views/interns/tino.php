@@ -13,7 +13,7 @@
                      <div class="intern-block border-blue">
                         <img src="https://res.cloudinary.com/gabemimi/image/upload/v1554370096/figmaprofile.jpg" alt="Miracle Gabriel">
                         <h6>Miracle Gabriel</h6>
-                        <p>Web Developer</p>
+                        <p>Front-end Engineer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/Gabe_mimi" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/gabrieltino/" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
@@ -24,10 +24,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am a progressiuve learner, capable of adjusting to any tech as long as there's means for good guidance. I am currently studying Computer science and in love with my life as a developer.</p>
+                        <p>Progressive learner, currently studying Computer science.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>HTML | CSS | Bootstrap | JavaScript | Jquery | PHP | Laravel | Node.js and progressing.</p>
+                        <p>JAVASCRIPT | PHP | NODE.JS</p>
                      </div>
                   </div>
                </div>
