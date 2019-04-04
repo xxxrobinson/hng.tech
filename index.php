@@ -33,7 +33,7 @@
   }
 
   $view = $router->match($request);
-
+  
   require $view;
 ?>
 
