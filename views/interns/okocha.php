@@ -21,11 +21,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm a web developer with 2 years of experience in the industry, I'm more of a backend dev, but have also dabbled in frontend development over time.</p>
-                        <p>I believe in working out solutions to problems regardless of the tools available.</p>
+                        <p>I'm a web developer with 2 years of experience in the industry. Most of my work has been done in the financial industry</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>Javascript | Node JS | Java | PHP</p>
+                        <p>Node JS | Java | PHP</p>
                      </div>
                   </div>
                </div>
