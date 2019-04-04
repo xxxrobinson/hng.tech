@@ -28,7 +28,7 @@
                         </p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | React JS | Python</p>
+                        <p>JavaScript | React JS | Responsive Web Design</p>
                      </div>
                   </div>
                </div>
