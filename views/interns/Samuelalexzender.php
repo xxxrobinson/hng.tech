@@ -9,8 +9,8 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/dloddsbxf/image/upload/c_limit,h_82,w_96/v1554360141/IMG_20190108_165704.jpg alt="Mark Essien">
-                        <h6>Mark Essien</h6>
+                        <img src="https://res.cloudinary.com/dloddsbxf/image/upload/v1554329349/IMG_20190108_165704.jpg" alt="Samuel Alexzender">
+                        <h6>Samuel Alexzender</h6>
                         <p>Front-end Engineer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/Alexzendersamu4" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
