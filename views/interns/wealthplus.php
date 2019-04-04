@@ -11,23 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="http://res.cloudinary.com/dxsmthw2p/image/upload/v1554307667/emmanuel.jpg" alt="Mark Essien">
-                        <h6>Evuazeze Emmanuel Oghenewegba</h6>
-                        <p>Front-end Engineer</p>
+                        <img src="https://res.cloudinary.com/wealthplus/image/upload/v1554345664/ajani.png" alt="Ajani Daniel">
+                        <h6>Ajani Daniel Oluwagbemiga</h6>
+                        <p>Front-End Developer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/eevuazeze" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/evuazeze" target="_blank"><i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@evuazeze.emmanuel" target="_blank"><i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/Ajahny_Danyhel" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/Ms-Wealth" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am a Junior Java Desktop Developer on a Journey to the Web, I am currently growing my Front-end skills and I glad to be part of HNG Internship</p>
+                        <p>I am an Aspiring Web Developer, Converting Data to Graphical Interface for User to View and Interact with Data Through Digital Interaction using HTML, CSS and Javascript.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | Java | Python</p>
+                        <p>HTML | CSS | JAVASCRIPT</p>
                      </div>
                   </div>
                </div>
