@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/daviluiz/image/upload/v1554311678/Photo_on_17-08-2018_at_2.jpg" alt="Alfred Chimereze">
+                        <img src="https://res.cloudinary.com/daviluiz/image/upload/v1554382113/Photo_on_13-02-2019_at_5.jpg" alt="Alfred Chimereze">
                         <h6>Alfred Chimereze</h6>
                         <p>FullStack Developer</p>
                         <ul class="list">
