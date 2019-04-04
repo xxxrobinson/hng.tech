@@ -28,7 +28,7 @@
                             I am passionate about learning and i love to <b>Fix it</b> if it's not working.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | HTML | CSS | VUE JS | REACT</p>
+                        <p>JavaScript | HTML | CSS </p>
                      </div>
                   </div>
                </div>
