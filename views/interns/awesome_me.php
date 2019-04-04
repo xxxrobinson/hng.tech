@@ -23,9 +23,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am a responsible individual. A Software Engineer with the vision to change the world. 
+                        <p style="letter-spacing: .5px; line-height: 1.5; word-spacing: .8px; text-align: justify">
+                            I am a responsible individual. A Software Engineer with the vision to change the world. 
                             I believe anything is achievable through programming. <br />                        
-                            I love learning new things and playing football and soccer games. <br />
+                            I love learning new things and playing football. <br />
                             Feel free to explore my projects and blogs.
                             You can connect with me via my <a href="https://twitter.com/Ridwanna_10" target="_blank">twitter</a> handle.
                         </p>
