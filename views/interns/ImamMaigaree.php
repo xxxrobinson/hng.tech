@@ -31,6 +31,7 @@
                         <h6>Skills</h6>
                         <p>JavaScript | PHP | CCNA </p>
                      </div>
+                     
                   </div>
                </div>
             </div>
